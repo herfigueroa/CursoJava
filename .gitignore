@@ -1,0 +1,7 @@
+ 
+# lista de exclusiones
+nbproject
+build.xml
+manifest.mf
+/build/
+test
